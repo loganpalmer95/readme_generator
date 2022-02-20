@@ -1,6 +1,6 @@
 # readme  
 ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blueviolet&style=plastic)
-this project writes readme mark down documents
+this project creates a readme document based on user input
 ## Table of Contents:
 * [Installation](#installation)
 * [Usage](#usage)
@@ -12,7 +12,7 @@ this project writes readme mark down documents
 In order to install the necessary dependencies, open the console and run the following:
 ```npm install```
 ### Usage:
-node js needs to be installed on your computer
+you need to have node.js installed on your computer
 ### License:
 This project is licensed under:
 MIT
